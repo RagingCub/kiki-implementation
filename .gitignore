@@ -1,0 +1,13 @@
+*.o
+*.cmd
+*.tmp*
+*.symvers
+*.order
+*ngelctl
+*.ko
+*.mod*
+*.log
+.vagrant
+*.box
+.idea
+cmake-build-debug
