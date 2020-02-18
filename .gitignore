@@ -7,7 +7,9 @@
 *.ko
 *.mod*
 *.log
-.vagrant
 *.box
 .idea
-cmake-build-debug
+
+.vagrant/
+cmake-build-debug/
+build/
